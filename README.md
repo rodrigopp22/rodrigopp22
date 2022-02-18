@@ -1,8 +1,14 @@
 <h1>Hey, I'm Rodrigo P. Pasquale</h1>
 
 ### About me
-I'm a Computer Science undegraduate student at Mackenzie Presbyterian University, currently working on the AWS Squad for the Finances, Credit risk and capital area of Itaú Unibanco as a Software Engineer Intern. 
-Artificial Intelligence, Natural Computing and Information Security are areas of great interest. 
+Computer Science undegraduate student at Mackenzie Presbyterian University, currently working at IBM as a Junior Big Data Engineer and curiosity is what moves me.
+
+Before IBM, I've worked as an intern in two companies and I've acted in distinct areas: Data Science and Software Engineering. During my time as a Data Science Intern, I've worked at Beegol - a startup of intelligent solutions based on machine learning and analytics for major industry problems - and, as a Software Engineering Intern, I've worked at Itaú Unibanco the largest financial institute of Latin America on a squad that was responsible for one of the bank's biggest projects, in which all events of financial operations are enriched and made available to other areas of interest of the Itaú.
+
+I have experience in Python 3, some Python multiprocessing and multithreading libraries, some AWS services (such as Lambda, RDS, DynamoDB, SQS, CloudWatch, ECS, EC2), some Python libraries for data science (such as Pandas, Scikit-Learn, Numpy), Apache Kafka and C++. 
+
+Artificial Intelligence, Natural Computing and Information Security are areas of great interest. Also, I've two scientific papers published - the first one is my scientific initiation and we studied the impact of Quantum Computing mainly on RSA algorithm and the latter we studied a way to parallelize the Negative Selection Algorithm, this paper was presented and published on ERAD-SP 2021.
+In my free time, I enjoy playing Pokémon, reading books and comics and taking care of my cacti and succulents.
 
 
 ### Programming Languages
